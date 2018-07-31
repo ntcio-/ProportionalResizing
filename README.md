@@ -18,3 +18,5 @@ Start with a single design on a specific device referred to as the prototype, an
 
 The code can be used as is, but most probably you will have to modify it to suit your specific needs.
 Suggestions and enhancements are welcome and encouraged.
+
+Please, send any problems you may encounter or suggestions for improvement to: tsiolasn@gmail.com
